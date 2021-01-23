@@ -1,0 +1,24 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+    margin: 0;
+    padding: 0;
+  }
+
+  .title {
+    margin-left: 5px;
+    font-size: 30px;
+    font-weight: 400;
+  }
+
+  .statistics_list {
+    margin-left: 5px;
+    margin-top: 20px;
+    list-style: none;
+    font-size: 20px;
+  }
